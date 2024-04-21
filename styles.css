@@ -1,0 +1,53 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+  }
+
+  header {
+    background-color: #052389; /* Color de fondo del encabezado */
+    color: #fff; /* Color del texto del encabezado */
+    padding: 20px; /* Espaciado interno del encabezado */
+    text-align: center; /* Alineación del texto al centro */
+}
+
+nav {
+    background-color: #333; /* Color de fondo de la barra de navegación */
+    padding: 10px; /* Espaciado interno de la barra de navegación */
+}
+
+nav ul {
+    list-style-type: none; /* Quita los estilos de lista */
+    margin: 0; /* Elimina el margen exterior */
+    padding: 0; /* Elimina el padding */
+}
+
+nav ul li {
+    display: inline; /* Muestra los elementos de la lista en línea */
+    margin-right: 20px; /* Margen derecho entre elementos */
+}
+
+nav ul li a {
+    color: #fff; /* Color del texto de los enlaces */
+    text-decoration: none; /* Quita la subrayado de los enlaces */
+}
+
+main {
+    padding: 20px; /* Espaciado interno del contenido principal */
+}
+
+main h2 {
+    color: #052389; /* Color del texto de los títulos */
+}
+
+main p {
+    margin-bottom: 20px; /* Margen inferior para los párrafos */
+}
+
+footer {
+    background-color: #052389; /* Color de fondo del pie de página */
+    color: #fff; /* Color del texto del pie de página */
+    padding: 20px; /* Espaciado interno del pie de página */
+    text-align: center; /* Alineación del texto al centro */
+}
